@@ -1,0 +1,1961 @@
+coresystem/aaa/jdbc/test_cli/TestJDBCCLIUser/test_011_add_same_user/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR]  - Failed to get host hosted-engine object with {host_name'
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+coresystem/aaa/jdbc/test_cli/TestJDBCCLIUser/test_011_add_same_user/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-19)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-23)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-17) [] Cannot authenticate using authentication Headers'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-16) [] Cannot authenticate using authentication Headers'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-22) [] Cannot authenticate using authentication Headers'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-15)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-14)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-13) [] Cannot authenticate using authentication Headers'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-21)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-20) [] Cannot authenticate using authentication Headers'
+  type: error
+coresystem/aaa/jdbc/test_cli/TestJDBCCLIUser/test_040_update_user/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-23)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-21)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-14)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-22) [] Cannot authenticate using authentication Headers'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-15)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-16) [] Cannot authenticate using authentication Headers'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-19)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-13) [] Cannot authenticate using authentication Headers'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-17) [] Cannot authenticate using authentication Headers'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.aaa.filters.SsoRestApiAuthFilter] (default
+    task-20) [] Cannot authenticate using authentication Headers'
+  type: error
+coresystem/aaa/jdbc/test_cli/TestJDBCCLIUser/test_050_lock_user/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-10) [48a8de12-9bc8-4d14-bff3-033d29f1d26c] Query execution failed due to
+    insufficient permissions.'
+  type: error
+coresystem/aaa/jdbc/test_cli/TestJDBCCLIUser/test_060_unlock_user/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-10) [48a8de12-9bc8-4d14-bff3-033d29f1d26c] Query execution failed due to
+    insufficient permissions.'
+  type: error
+coresystem/aaa/ldap/engine/test_auth/TestADDigestMD5/test_ad_digest_md5/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/engine/test_auth/TestADDigestMD5/test_ad_digest_md5/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.monitoring.HostMonitoring]
+    (EE-ManagedThreadFactory-engineScheduled-Thread-22) [] Failure to refresh host
+    host_mixed_3 runtime info'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.monitoring.HostMonitoring]
+    (EE-ManagedThreadFactory-engineScheduled-Thread-7) [] Failure to refresh host
+    host_mixed_2 runtime info'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (EE-ManagedThreadFactory-engineScheduled-Thread-56)
+    [] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.VdsManager] (EE-ManagedThreadFactory-engineScheduled-Thread-22)
+    [] Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.VdsManager] (EE-ManagedThreadFactory-engineScheduled-Thread-7)
+    [] Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-27) [68ef646b-64b3-48d4-822d-558da3dff790] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.monitoring.HostMonitoring]
+    (EE-ManagedThreadFactory-engineScheduled-Thread-56) [] Failure to refresh host
+    host_mixed_1 runtime info'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.VdsManager] (EE-ManagedThreadFactory-engineScheduled-Thread-56)
+    [] Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (EE-ManagedThreadFactory-engineScheduled-Thread-7)
+    [] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-29) [ddb326ad-9cf7-43c4-8110-c99360bb811c] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [1ef9356d] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (EE-ManagedThreadFactory-engineScheduled-Thread-22)
+    [] Exception occured during response decomposition'
+  type: error
+coresystem/aaa/ldap/engine/test_auth/TestIPAGSSAPI/test_ipa_gssapi/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/engine/test_auth/TestIPAGSSAPI/test_ipa_gssapi/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.monitoring.HostMonitoring]
+    (EE-ManagedThreadFactory-engineScheduled-Thread-22) [] Failure to refresh host
+    host_mixed_3 runtime info'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (EE-ManagedThreadFactory-engineScheduled-Thread-22)
+    [] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.VdsManager] (EE-ManagedThreadFactory-engineScheduled-Thread-22)
+    [] Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (EE-ManagedThreadFactory-engineScheduled-Thread-56)
+    [] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (EE-ManagedThreadFactory-engineScheduled-Thread-7)
+    [] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-29) [ddb326ad-9cf7-43c4-8110-c99360bb811c] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.VdsManager] (EE-ManagedThreadFactory-engineScheduled-Thread-7)
+    [] Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-27) [68ef646b-64b3-48d4-822d-558da3dff790] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.VdsManager] (EE-ManagedThreadFactory-engineScheduled-Thread-56)
+    [] Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.monitoring.HostMonitoring]
+    (EE-ManagedThreadFactory-engineScheduled-Thread-7) [] Failure to refresh host
+    host_mixed_2 runtime info'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.monitoring.HostMonitoring]
+    (EE-ManagedThreadFactory-engineScheduled-Thread-56) [] Failure to refresh host
+    host_mixed_1 runtime info'
+  type: error
+coresystem/aaa/ldap/engine/test_configurations/TestDisabledConfiguration/test_disabledConfiguration/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/engine/test_configurations/TestDisabledConfiguration/test_disabledConfiguration/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-28) [167d7237-1d73-4868-b9af-cf379ebd1c13] Query execution failed due to
+    insufficient permissions.'
+  type: error
+coresystem/aaa/ldap/engine/test_configurations/TestWrongConfiguration/test_wrongConfiguration/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+? coresystem/aaa/ldap/engine/test_indirect_membership/TestIndirectMembershipNonRecursive/test_ipa_indirect_group_membership/engine.log
+: - error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+      task-10) [3b49e577-9e32-470b-9d38-2fee84ad4fbc] Query execution failed due to
+      insufficient permissions.'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+      task-21) [ceb7249f-fb28-4125-a338-ad948a2e5f50] Query execution failed due to
+      insufficient permissions.'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+      task-4) [992e64fb-aa2a-4c9d-942f-6f74a08b433c] Query execution failed due to
+      insufficient permissions.'
+    type: error
+? coresystem/aaa/ldap/engine/test_indirect_membership/TestIndirectMembershipRecursive/test_ad_indirect_group_membership/art_test_runner.log
+: - error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+    type: error
+? coresystem/aaa/ldap/engine/test_indirect_membership/TestIndirectMembershipRecursive/test_ad_indirect_group_membership/engine.log
+: - error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+      task-28) [167d7237-1d73-4868-b9af-cf379ebd1c13] Query execution failed due to
+      insufficient permissions.'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+      task-10) [3b49e577-9e32-470b-9d38-2fee84ad4fbc] Query execution failed due to
+      insufficient permissions.'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+      task-21) [ceb7249f-fb28-4125-a338-ad948a2e5f50] Query execution failed due to
+      insufficient permissions.'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+      task-4) [992e64fb-aa2a-4c9d-942f-6f74a08b433c] Query execution failed due to
+      insufficient permissions.'
+    type: error
+coresystem/aaa/ldap/engine/test_ssl/TestADTLS/test_adtls/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/engine/test_ssl/TestADTLS/test_adtls/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-23) [4ab49696-9ac7-4b3c-b57e-b4f2c2ecd9ca] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-6) [af41352a-c6f7-4b4f-b241-a4c793b1eb91] Query execution failed due to insufficient
+    permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-30) [72c24a12-9f1e-4b22-97fb-7c503c4fe615] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-1) [38c297ff-1ef0-4b01-b4f6-f3cede632f60] Query execution failed due to insufficient
+    permissions.'
+  type: error
+coresystem/aaa/ldap/engine/test_sso/TestSSOLogin/test_sso_login/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+- error_msg: '[ERROR]  - Status'
+  type: error
+coresystem/aaa/ldap/engine/test_sso/TestSSOLogin/test_sso_login/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-30) [72c24a12-9f1e-4b22-97fb-7c503c4fe615] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [c36549d] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-1) [38c297ff-1ef0-4b01-b4f6-f3cede632f60] Query execution failed due to insufficient
+    permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-23) [4ab49696-9ac7-4b3c-b57e-b4f2c2ecd9ca] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-6) [af41352a-c6f7-4b4f-b241-a4c793b1eb91] Query execution failed due to insufficient
+    permissions.'
+  type: error
+coresystem/aaa/ldap/setup/test_ad/TestADExpiredAccount/test_expired_account/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-7)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-13) [5926595f-7b6e-443b-a174-8b250a683ef7] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-25) [aef49d83-8ae8-4785-bae2-5e8ef7aa06f9] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-2)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [7f667d11] Exception occured during response decomposition'
+  type: error
+coresystem/aaa/ldap/setup/test_ad/TestADSpecialCharsSearch/test_special_characters/art_test_runner.log:
+- error_msg: '[ERROR]  - Status'
+  type: error
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/setup/test_ad/TestADUserFromGroup/test_user_from_group/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/setup/test_ad/TestADUserFromGroup/test_user_from_group/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-25) [aef49d83-8ae8-4785-bae2-5e8ef7aa06f9] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-7)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-13) [5926595f-7b6e-443b-a174-8b250a683ef7] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-2)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [c36549d] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [7f667d11] Exception occured during response decomposition'
+  type: error
+coresystem/aaa/ldap/setup/test_ipa/TestIPADisabledAccount/test_disabled_account/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/setup/test_ipa/TestIPAExpiredPassword/test_expired_password/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-6)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [37971f39] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-9) [cd424f63-9b89-4b96-aace-b2de62bec617] Query execution failed due to insufficient
+    permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-12)
+    [] OAuthException access_denied'
+  type: error
+coresystem/aaa/ldap/setup/test_ipa/TestIPAUserFromGroup/test_user_from_group/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/setup/test_ipa/TestIPAUserFromGroup/test_user_from_group/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-12)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [37971f39] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-9) [cd424f63-9b89-4b96-aace-b2de62bec617] Query execution failed due to insufficient
+    permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-6)
+    [] OAuthException access_denied'
+  type: error
+coresystem/aaa/ldap/setup/test_openldap/TestOpenLdapDisabledAccount/test_disabled_account/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/setup/test_openldap/TestOpenLdapExpiredPassword/test_expired_password/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [308b7bda] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-13) [e1ccbf1a-5f3b-41b7-a554-c981823f643f] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-12)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-17)
+    [12b0a327] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-7)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-2)
+    [] OAuthException access_denied'
+  type: error
+coresystem/aaa/ldap/setup/test_openldap/TestOpenLdapUserFromGroup/test_user_from_group/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/setup/test_openldap/TestOpenLdapUserFromGroup/test_user_from_group/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-7)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-17)
+    [12b0a327] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-13) [e1ccbf1a-5f3b-41b7-a554-c981823f643f] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.vdsbroker.jsonrpc.FutureMap] (org.ovirt.thread.EE-ManagedThreadFactory-engine-Thread-10)
+    [308b7bda] Exception occured during response decomposition'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-12)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-2)
+    [] OAuthException access_denied'
+  type: error
+coresystem/aaa/ldap/setup/test_rhds/TestRHDSDisabledAccount/test_disabled_account/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/setup/test_rhds/TestRHDSExpiredAccount/test_expired_account/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-2)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-13) [5dfd865c-73de-43e1-8ba5-ded1814878a0] Query execution failed due to
+    insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-7)
+    [] OAuthException access_denied'
+  type: error
+coresystem/aaa/ldap/setup/test_rhds/TestRHDSUserFromGroup/test_user_from_group/art_test_runner.log:
+- error_msg: '[ERROR]  - [10.35.69.166]   failed to get content of health page'
+  type: error
+coresystem/aaa/ldap/setup/test_rhds/TestRHDSUserFromGroup/test_user_from_group/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-2)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.sso.utils.SsoUtils] (default task-7)
+    [] OAuthException access_denied'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.GetSystemStatisticsQuery] (default
+    task-13) [5dfd865c-73de-43e1-8ba5-ded1814878a0] Query execution failed due to
+    insufficient permissions.'
+  type: error
+? coresystem/external_tasks/test_external_tasks/TestAddJobWithEmptyDescription/test_add_job_with_empty_description/art_test_runner.log
+: - error_msg: '[ERROR]  - Response code is not valid, expected is'
+    type: error
+  - error_msg: '[ERROR]  - Failed to create element NOT as expected'
+    type: error
+? coresystem/external_tasks/test_external_tasks/TestAddStepWithIncorrectType/test_add_step_with_incorrect_type/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to create element NOT as expected'
+    type: error
+  - error_msg: '[ERROR]  - Response code is not valid, expected is'
+    type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_aa_install_guest_agent/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_agent_data/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_basic_hibernation_hook/hypervisor-lynx19_vdsm.log
+: - error_message: libvirtError Domain not found no domain with matching uuid 8eb94b68-b4b6-41bf-b88a-ec0a50b213f8
+      (rhel6_x86_Disk1)
+    last_line: File /usr/lib64/python2.7/site-packages/libvirt.py, line 494, in XMLDesc
+    type: traceback
+  - error_msg: '[ERROR]  (migsrc/8eb94b68) [root] FINISH thread <Thread(migsrc/8eb94b68,
+      started daemon 139867556116224)> failed (concurrent'
+    type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_function_continuity/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_hibernation_hook_legacy_policy/hypervisor-lynx18_vdsm.log
+: - error_msg: '[ERROR]  (vmchannels) [virt.vm] (vmId=8eb94b68-b4b6-41bf-b88a-ec0a50b213f8)
+      No JSON object could be decoded'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_hibernation_hook_legacy_policy/hypervisor-lynx19_vdsm.log
+: - error_message: libvirtError Domain not found no domain with matching uuid 8eb94b68-b4b6-41bf-b88a-ec0a50b213f8
+      (rhel6_x86_Disk1)
+    last_line: File /usr/lib64/python2.7/site-packages/libvirt.py, line 494, in XMLDesc
+    type: traceback
+  - error_msg: '[ERROR]  (migsrc/8eb94b68) [root] FINISH thread <Thread(migsrc/8eb94b68,
+      started daemon 139867556116224)> failed (concurrent'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_migration_hook_legacy_policy/hypervisor-lynx19_vdsm.log
+: - error_msg: '[ERROR]  (migsrc/8eb94b68) [root] FINISH thread <Thread(migsrc/8eb94b68,
+      started daemon 139867556116224)> failed (concurrent'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_zz_uninstall_guest_agent/hypervisor-lynx18_vdsm.log
+: - error_msg: '[ERROR]  (vmchannels) [virt.vm] (vmId=8eb94b68-b4b6-41bf-b88a-ec0a50b213f8)
+      No JSON object could be decoded'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL632bGATest/test_zz_uninstall_guest_agent/hypervisor-lynx19_vdsm.log
+: - error_msg: '[ERROR]  (migsrc/8eb94b68) [root] FINISH thread <Thread(migsrc/8eb94b68,
+      started daemon 139867556116224)> failed (concurrent'
+    type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_aa_install_guest_agent/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR]  - No interfaces found for VM rhel6_x86_Disk1'
+  type: error
+- error_msg: '[ERROR]  - No interfaces found for VM rhel6_x64_Disk1'
+  type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_agent_data/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_basic_hibernation_hook/hypervisor-lynx19_vdsm.log
+: - error_message: libvirtError Domain not found no domain with matching uuid 2bee5b04-7582-4ef4-9d1a-287656221525
+      (rhel6_x64_Disk1)
+    last_line: File /usr/lib64/python2.7/site-packages/libvirt.py, line 494, in XMLDesc
+    type: traceback
+  - error_msg: '[ERROR]  (migsrc/2bee5b04) [root] FINISH thread <Thread(migsrc/2bee5b04,
+      started daemon 139867614865152)> failed (concurrent'
+    type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_function_continuity/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_hibernation_hook_legacy_policy/hypervisor-lynx18_vdsm.log
+: - error_msg: '[ERROR]  (vmchannels) [virt.vm] (vmId=2bee5b04-7582-4ef4-9d1a-287656221525)
+      No JSON object could be decoded'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_hibernation_hook_legacy_policy/hypervisor-lynx19_vdsm.log
+: - error_message: libvirtError Domain not found no domain with matching uuid 2bee5b04-7582-4ef4-9d1a-287656221525
+      (rhel6_x64_Disk1)
+    last_line: File /usr/lib64/python2.7/site-packages/libvirt.py, line 494, in XMLDesc
+    type: traceback
+  - error_msg: '[ERROR]  (migsrc/2bee5b04) [root] FINISH thread <Thread(migsrc/2bee5b04,
+      started daemon 139867530938112)> failed (concurrent'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_migration_hook_legacy_policy/hypervisor-lynx19_vdsm.log
+: - error_msg: '[ERROR]  (migsrc/2bee5b04) [root] FINISH thread <Thread(migsrc/2bee5b04,
+      started daemon 139867614865152)> failed (concurrent'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_zz_uninstall_guest_agent/hypervisor-lynx18_vdsm.log
+: - error_msg: '[ERROR]  (vmchannels) [virt.vm] (vmId=2bee5b04-7582-4ef4-9d1a-287656221525)
+      No JSON object could be decoded'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel6/TestRHEL664bGATest/test_zz_uninstall_guest_agent/hypervisor-lynx19_vdsm.log
+: - error_msg: '[ERROR]  (migsrc/2bee5b04) [root] FINISH thread <Thread(migsrc/2bee5b04,
+      started daemon 139867530938112)> failed (concurrent'
+    type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel6/TestUpgradeRHEL632bGATest/test_upgrade_guest_agent/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel6/TestUpgradeRHEL664bGATest/test_upgrade_guest_agent/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel7/TestRHEL764bGATest/test_aa_install_guest_agent/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel7/TestRHEL764bGATest/test_agent_data/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel7/TestRHEL764bGATest/test_basic_hibernation_hook/hypervisor-lynx19_vdsm.log
+: - error_message: libvirtError Domain not found no domain with matching uuid b64984d0-f1e8-4951-8cc4-e96bc87f3cb9
+      (rhel7_x64_Disk1)
+    last_line: File /usr/lib64/python2.7/site-packages/libvirt.py, line 494, in XMLDesc
+    type: traceback
+  - error_msg: '[ERROR]  (migsrc/b64984d0) [root] FINISH thread <Thread(migsrc/b64984d0,
+      started daemon 139867564508928)> failed (concurrent'
+    type: error
+  - error_msg: '[ERROR]  (periodic/0) [virt.vmstats] VM metrics collection failed
+      (vmstats'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel7/TestRHEL764bGATest/test_basic_migration_hook/hypervisor-lynx19_vdsm.log
+: - error_message: KeyError cpuUsage
+    last_line: File /usr/lib/python2.7/site-packages/vdsm/virt/vmstats.py, line 195,
+      in send_metrics
+    type: traceback
+  - error_msg: '[ERROR]  (periodic/0) [virt.vmstats] VM metrics collection failed
+      (vmstats'
+    type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel7/TestRHEL764bGATest/test_function_continuity/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel7/TestRHEL764bGATest/test_hibernation_hook_legacy_policy/hypervisor-lynx18_vdsm.log
+: - error_message: libvirtError Domain not found no domain with matching uuid b64984d0-f1e8-4951-8cc4-e96bc87f3cb9
+      (rhel7_x64_Disk1)
+    last_line: File /usr/lib64/python2.7/site-packages/libvirt.py, line 494, in XMLDesc
+    type: traceback
+  - error_msg: '[ERROR]  (migsrc/b64984d0) [root] FINISH thread <Thread(migsrc/b64984d0,
+      started daemon 140466838304512)> failed (concurrent'
+    type: error
+? coresystem/guest_tools/linux_guest_agent/test_rhel7/TestRHEL764bGATest/test_migration_hook_legacy_policy/hypervisor-lynx19_vdsm.log
+: - error_msg: '[ERROR]  (migsrc/b64984d0) [root] FINISH thread <Thread(migsrc/b64984d0,
+      started daemon 139867564508928)> failed (concurrent'
+    type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel7/TestRHEL764bGATest/test_sso_logon_to_vm/hypervisor-lynx18_vdsm.log:
+- error_msg: '[ERROR]  (migsrc/b64984d0) [root] FINISH thread <Thread(migsrc/b64984d0,
+    started daemon 140466838304512)> failed (concurrent'
+  type: error
+coresystem/guest_tools/linux_guest_agent/test_rhel7/TestUpgradeRHEL764bGATest/test_upgrade_guest_agent/art_test_runner.log:
+- error_msg: '[ERROR] '
+  type: error
+- error_msg: '[ERROR] '
+  type: error
+coresystem/guest_tools/wgt/test_windows/TestWin7_CI_64b/test_guest_applications/hypervisor-lynx20_vdsm.log:
+- error_message: IndexError list index out of range
+  last_line: File /usr/lib/python2.7/site-packages/vdsm/virt/vm.py, line 4943, in
+    get_balloon_info
+  type: traceback
+- error_msg: '[ERROR]  (jsonrpc/2) [virt.vm] (vmId=e8c230ea-bd4e-4511-85ab-6446353e4d6e)
+    Error fetching vm stats (vm'
+  type: error
+coresystem/guest_tools/wgt/test_windows/TestWin7_CI_64b/test_vm_ip_fqdn_info/hypervisor-lynx20_vdsm.log:
+- error_msg: '[ERROR]  (jsonrpc/2) [virt.vm] (vmId=e8c230ea-bd4e-4511-85ab-6446353e4d6e)
+    Error fetching vm stats (vm'
+  type: error
+? coresystem/mla/test_copy_permissions/TestCopyPermissions299328/test_make_template_with_copy_permissions_option/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template2 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template2
+      and specific template version 1 with {all_content'
+    type: error
+? coresystem/mla/test_copy_permissions/TestCopyPermissions299331/test_make_template_without_copy_permissions_option/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template2 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template2
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_copy_permissions/TestCopyPermissions299331/test_make_template_without_copy_permissions_option/engine.log
+: - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-5) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-14) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-22) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-8) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-9) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-6) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-7) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-18) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-3) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-19) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-11) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-10) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-29) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-4) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-21) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-1) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-32) [] Operation Failed'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions231915/test_create_delete_network_in_datacenter/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions231915/test_create_delete_network_in_datacenter/engine.log
+: - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-4) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-10) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-3) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-7) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-32) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-5) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-6) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-19) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-8) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-18) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-14) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-1) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-11) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-29) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-21) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-9) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-22) [] Operation Failed'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions231916/test_edit_network_in_datacenter/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions231917/test_attaching_detaching_network_to_from_cluster/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions231918/test_network_required_to_non_required_and_vice_versa/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions231919/test_attaching_vnic_to_vm/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions234215/test_attach_vnic_to_template/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions236686/test_attach_network_to_vm/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_negative/TestNegativeNetworkPermissions236736/test_visible_networks_and_manipulation/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions2318:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-19) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+    users__template1 with {all_content'
+  type: error
+- error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+    and specific template version 1 with {all_content'
+  type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions231821/test_create_network_in_datacenter/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions231822/test_edit_network_in_datacenter/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions231823/test_attaching_network_to_cluster/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions231824/test_required_to_non_required_and_vice_versa/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions231826/test_attach_detach_network_to_vm/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions231826/test_attach_detach_network_to_vm/engine.log
+: - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-19) [] Operation Failed'
+    type: error
+  - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-10) [] Operation Failed'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions231830/test_network_visibility_in_api/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions231832/test_port_mirroring/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Response code is not valid, expected is'
+    type: error
+  - error_msg: '[ERROR]  - Failed to update element NOT as expected'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236073/test_display_network/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236367/test_add_vnic_to_vm/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236406/test_update_vnic_on_vm/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236408/test_add_vnic_to_template/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236409/test_update_vnic_on_template/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236409/test_update_vnic_on_template/engine.log
+: - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-32) [] Operation Failed'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236577/test_remove_network_from_datacenter/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236577/test_remove_network_from_datacenter/engine.log
+: - error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+      (default task-32) [] Operation Failed'
+    type: error
+coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions236664/test_custom_role/art_test_runner.log:
+- error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+    and specific template version 1 with {all_content'
+  type: error
+- error_msg: '[ERROR]  - Failed to delete element NOT as expected'
+  type: error
+- error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+  type: error
+- error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+    users__template1 with {all_content'
+  type: error
+- error_msg: '[ERROR]  - Response code is not valid, expected is'
+  type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions317133/test_automatic_creation_to_user/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions317269/test_automatic_creation_of_permissions/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions317270/test_non_vm_to_vm_network/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to find permission userrolefor user/group user1@internal-authz
+      on vnicprofile'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions317270/test_non_vm_to_vm_network/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-28) [01bae211-6dff-4b06-803a-018cb833a114] Query execution failed
+    due to insufficient permissions.'
+  type: error
+? coresystem/mla/test_network_permissions_positive/TestPositiveNetworkPermissions320610/test_vnic_permissions_are_restricted_to_specific_profile/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to remove template users__template1 with {version_number'
+    type: error
+coresystem/mla/test_user_disk_permissions/TestActivateDeactivateDisk/test_activate_deactivate_disk/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-17) [9c0bab54-7f4b-41a2-b267-365ffeebc16c] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-20) [9f021034-ae63-4849-91ee-0eeb8455a10e] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-15) [82a416a2-3201-4f64-b79c-db0259904371] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-17) [81f09940-9ac7-4fb0-8d85-5eca98c623e1] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-27) [55b6b6d2-a8f4-4385-aed8-b1b0f3bebaa8] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-26) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-27) [5a8cabb4-451e-4f41-b076-8d058149d15d] Query execution failed
+    due to insufficient permissions.'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestAddDiskToVM/test_add_disk_to_vm/art_test_runner.log:
+- error_msg: '[ERROR]  - Failed to delete element NOT as expected'
+  type: error
+- error_msg: '[ERROR]  - Response code is not valid, expected is'
+  type: error
+- error_msg: '[ERROR]  - Succeeded to add disk <art.rhevm_api.data_struct.data_structures.disk
+    object at 0x865cb90> with {interface'
+  type: error
+- error_msg: '[ERROR]  - Status'
+  type: error
+- error_msg: '[ERROR]  - Failed to remove vm users__vm_nodisk'
+  type: error
+- error_msg: '[ERROR]  - Response code is not valid, expected is'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestAddDiskToVM/test_add_disk_to_vm/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-20) [a9647a33-9514-4102-80dc-37461e8b4c50] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-12) [09faddbe-40dc-4756-b354-33e8ce275b6a] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-8) [15167e62-79b2-4b62-8ab3-eff3b79f2145] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-24) [674cb43b-ee51-4663-a129-ba497d77f9bd] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-24) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-21) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-2) [6dc3fc61-3ce4-40e9-b013-6c1a40cae5f4] Query execution failed
+    due to insufficient permissions.'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestCreateDiskNegative/test_create_disk_without_permissions/art_test_runner.log:
+- error_msg: '[ERROR]  - Response code is not valid, expected is'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestCreateDiskNegative/test_create_disk_without_permissions/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-4) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestDiskInheritedPermissions/test_disk_inherited_permissions/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-4) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestMoveOrCopyDisk/test_move_disk/art_test_runner.log:
+- error_msg: '[ERROR]  - Response code is not valid, expected is'
+  type: error
+- error_msg: '[ERROR]  - Failed to syncAction element NOT as expected'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestMoveOrCopyDisk/test_move_disk/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-20) [a9647a33-9514-4102-80dc-37461e8b4c50] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-24) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-2) [6dc3fc61-3ce4-40e9-b013-6c1a40cae5f4] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-8) [15167e62-79b2-4b62-8ab3-eff3b79f2145] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-12) [09faddbe-40dc-4756-b354-33e8ce275b6a] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-24) [674cb43b-ee51-4663-a129-ba497d77f9bd] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-21) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestRemoveDisk/test_remove_disk/art_test_runner.log:
+- error_msg: '[ERROR]  - Status'
+  type: error
+- error_msg: '[ERROR]  - Response code is not valid, expected is'
+  type: error
+coresystem/mla/test_user_disk_permissions/TestRemoveDisk/test_remove_disk/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-26) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-17) [9c0bab54-7f4b-41a2-b267-365ffeebc16c] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-17) [81f09940-9ac7-4fb0-8d85-5eca98c623e1] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-27) [55b6b6d2-a8f4-4385-aed8-b1b0f3bebaa8] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-27) [5a8cabb4-451e-4f41-b076-8d058149d15d] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-20) [9f021034-ae63-4849-91ee-0eeb8455a10e] Query execution failed
+    due to insufficient permissions.'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.storage.domain.GetStorageDomainListByIdQuery]
+    (default task-15) [82a416a2-3201-4f64-b79c-db0259904371] Query execution failed
+    due to insufficient permissions.'
+  type: error
+? coresystem/mla/test_user_permissions/TestPermissionsCase109086/test_permissions_inheritance_for_vm_pools/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      users__template1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+      and specific template version 1 with {all_content'
+    type: error
+coresystem/mla/test_user_permissions/TestPermissionsCase5441854419/test_last_permission_on_object/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-4) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-16) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-22) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-30) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-5) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-17) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-9) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_permissions/TestPermissionsCase5441854419/test_removal_of_super_user/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-5) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-16) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-9) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-30) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-4) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-22) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-17) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_permissions/TestPermissionsCase54420/test_object_admin_user/art_test_runner.log:
+- error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+    users__template2 with {all_content'
+  type: error
+- error_msg: '[ERROR]  - Failed to gets template object by template_name users__template2
+    and specific template version 1 with {all_content'
+  type: error
+coresystem/mla/test_user_permissions/TestPermissionsCase54425/test_delegate_permissions/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-2) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_permissions/TestPermissionsCase54425/test_new_object_check_permissions/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-2) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_roles/TestRoleCase54401/test_edit_role/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-26) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-13) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-30) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-18) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR] _CANNOT_REMOVE_ROLE_ATTACHED_TO_PERMISSION'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-23) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-30) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-11) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-15) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-18) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-27) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-22) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-13) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-17) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-16) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-19) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-23) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-27) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-21) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-20) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-30) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-6) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-5) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-15) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-6) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-11) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-18) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-21) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-17) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-19) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-9) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-32) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-2) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-11) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-2) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-9) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-24) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-13) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-16) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-17) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-7) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-26) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-20) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-24) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-32) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-4) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-23) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-7) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-5) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-22) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-22) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-29) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-21) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-27) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-2) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-12) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-5) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-6) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-15) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-20) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-19) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-29) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-7) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-29) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-16) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_roles/TestRoleCase54402/test_remove_role/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-6) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-13) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-29) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.SearchQuery] (default task-10) []
+    Query SearchQuery failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-4) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-23) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-18) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.SearchQuery] (default task-10) []
+    Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-26) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_roles/TestRoleCase54413/test_create_role_permissions/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-30) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-11) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-6) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-21) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-13) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-9) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-29) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-2) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-7) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-22) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-24) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-17) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-19) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-15) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-18) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-20) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-16) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-23) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-27) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_roles/TestRoleCase54415/test_list_of_roles/engine.log:
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-5) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-22) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-21) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-13) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-13) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-18) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-14) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-6) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-29) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-29) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-16) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-17) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-7) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-7) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-15) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-27) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-13) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-2) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-26) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-30) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-26) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-23) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-4) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-29) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.SearchQuery] (default task-10) []
+    Query SearchQuery failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-26) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR] _CANNOT_REMOVE_ROLE_ATTACHED_TO_PERMISSION'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-9) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-32) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-32) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-5) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-30) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-18) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-4) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-11) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-19) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-17) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-6) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-23) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-5) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-21) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-15) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-28) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-3) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-6) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-11) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-8) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-16) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-2) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-24) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-20) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-27) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-10) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-18) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-22) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-20) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-25) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-1) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.core.bll.SearchQuery] (default task-10) []
+    Exception'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-19) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-31) [] Operation Failed'
+  type: error
+- error_msg: '[ERROR]  [org.ovirt.engine.api.restapi.resource.AbstractBackendResource]
+    (default task-12) [] Operation Failed'
+  type: error
+coresystem/mla/test_user_roles/TestRolesCase54412/test_roles_hierarchy/art_test_runner.log:
+- error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+    users__template_nodisk with {all_content'
+  type: error
+- error_msg: '[ERROR]  - Failed to gets template object by template_name users__template1
+    and specific template version 1 with {all_content'
+  type: error
+- error_msg: '[ERROR]  - Failed to gets template object by template_name users__template_nodisk
+    and specific template version 1 with {all_content'
+  type: error
+- error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+    users__template1 with {all_content'
+  type: error
+? coresystem/power_management/test_power_management/Test01AddPMWithNoPassword/test_add_power_management_with_no_password/art_test_runner.log
+: - error_msg: '[ERROR]  - Response code is not valid, expected is'
+    type: error
+  - error_msg: '[ERROR]  - Failed to create element NOT as expected'
+    type: error
+? coresystem/power_management/test_power_management/Test02AddPMWithNoUsername/test_add_power_management_with_no_username/art_test_runner.log
+: - error_msg: '[ERROR]  - Response code is not valid, expected is'
+    type: error
+  - error_msg: '[ERROR]  - Failed to create element NOT as expected'
+    type: error
+? coresystem/power_management/test_power_management/Test03AddPMWithNoAddress/test_add_power_management_with_no_address/art_test_runner.log
+: - error_msg: '[ERROR]  - Response code is not valid, expected is'
+    type: error
+  - error_msg: '[ERROR]  - Failed to create element NOT as expected'
+    type: error
+? coresystem/power_management/test_power_management/Test04AddPMWithInvalidType/test_add_power_management_with_invalid_type/art_test_runner.log
+: - error_msg: '[ERROR]  - Response code is not valid, expected is'
+    type: error
+  - error_msg: '[ERROR]  - Failed to create element NOT as expected'
+    type: error
+? coresystem/power_management/test_power_management/Test05AddPMWithInvalidOptionPort/test_add_power_management_with_invalid_type/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to create element NOT as expected'
+    type: error
+  - error_msg: '[ERROR]  - Response code is not valid, expected is'
+    type: error
+? coresystem/user_tests/test_admin/TestVmImporterExporterRoleActions/test_edit_storage_domain_configuration/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      auto_create_template with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      auto_delete_template with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name auto_delete_template
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name auto_create_template
+      and specific template version 1 with {all_content'
+    type: error
+? coresystem/user_tests/test_user/TestVmImporterExporterRoleActions/test_edit_storage_domain_configuration/art_test_runner.log
+: - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      auto_delete_template with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to get template objects by using the template_name
+      auto_create_template with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name auto_delete_template
+      and specific template version 1 with {all_content'
+    type: error
+  - error_msg: '[ERROR]  - Failed to gets template object by template_name auto_create_template
+      and specific template version 1 with {all_content'
+    type: error
